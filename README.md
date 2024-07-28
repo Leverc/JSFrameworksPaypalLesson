@@ -1,10 +1,6 @@
 # JSFrameworksPaypalLesson
  Lesson Code and Instructions for JS Frameworks Paypal lecture
 
-# Node.js Project Scaffold
-
-This guide walks you through setting up a basic Node.js project with an Express server.
-
 ## Step 1: Scaffolding a Node.js Project
 
 ### 1. Install Node.js and npm
